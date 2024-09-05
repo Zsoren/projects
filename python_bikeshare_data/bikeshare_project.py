@@ -160,16 +160,16 @@ def user_stats(df, city):
 
     # count of each user type calculation
     user_types = df['User Type'].value_counts()
-    subscribers = user_types[0]
-    customers = user_types[1]
+    subscribers = user_types.iloc[0]
+    customers = user_types.iloc[1]
     print('The counts of each user type were {} Subscribers and {} Customers'.format(subscribers, customers))
 
     # checks if we are looking at data from Chicago or New York City, as these stats are only provided for those cities
     if city in ('chicago', 'new york city'):
         # count of each gender calculation
         genders = df['Gender'].value_counts()
-        males = genders[0]
-        females = genders[1]
+        males = genders.iloc[0]
+        females = genders.iloc[1]
         print('The counts of each gender were {} Males and {} Females'.format(males, females))
 
         # the earliest birth year calculation
@@ -181,7 +181,7 @@ def user_stats(df, city):
         print('The most recent birth year of a user was: {}'.format(recent_birth))
 
         # the most common birth year calculation
-        popular_birth = int(df['Birth Year'].mode())
+        popular_birth = int(df['Birth Year'].mode()[0])
         print('The most common birth year of a user was: {}'.format(popular_birth))
 
 
