@@ -1,0 +1,573 @@
+Prop_ID,Name,Location,Num_of_Courts,Accessible,lat,lon,Borough
+159,Captain William Harry Thompson Playground,E 174 St. & Bronx River Ave.,2.0,N,40.8342,-73.8775,X
+179,52 Playground,Kelly St. & Ave. St. John,2.0,N,40.8149,-73.9021,X
+216,Abigail Adams Playground,Tinton Ave. & E 156 St.,2.0,N,40.8172,-73.9044,X
+169,Agnes Haywood Playground,Barnes Ave. & E 215 St.,2.0,N,40.8804,-73.8619,X
+172,Allerton Playground,Bouck & Throop Aves.,2.0,N,40.8659,-73.8503,X
+187,Angelo Campanero Playground,"Gun Hill Rd., Eastchester Rd. and O'Neill Pl.",2.0,N,40.8679,-73.843,X
+001,Aqueduct Lands Playground,"W 183 St., Aqueduct Ave., W Tremont Ave. and University Ave.",2.0,N,40.8634,-73.9035,X
+219,Arcilla Playground,E 164 St. & Teller Ave.,2.0,N,40.8271,-73.9145,X
+150J,Bailey Playground,Bailey Ave. & W 234-W 238 Sts.,2.0,N,40.8811,-73.9008,X
+166,Behagen Playground,"E 166 St., Union Ave. and Tinton Ave.",2.0,N,40.8254,-73.9015,X
+108,Belmont Playground,Crotona Ave. & E 181 St.,2.0,N,40.8497,-73.8875,X
+002,Brady Playground,Bronxdale Ave. & Bronx Pk E,2.0,N,40.8512,-73.8705,X
+148A3,Bridge Playground,"Boscobel Pl., University Ave. and W 171 St.",2.0,N,40.8443,-73.924,X
+183,Bruckner Playground,Phillips Ave. & E 177 St.,2.0,N,40.8268,-73.8289,X
+121,Bufano Playground,"Bradford, Edison, La Salle and Waterbury Aves.",2.0,N,40.838,-73.8312,X
+194,Capt. Rivera Playground,Forest Ave. & E 156 St.,2.0,N,40.8179,-73.907,X
+160,Caserta Playground,St. Raymond Ave. & Odell St.,2.0,N,40.8372,-73.854,X
+111,Cedar Playground,W 179 St. & Sedgwick Ave.,2.0,N,40.8548,-73.9177,X
+008,Claremont Park,E 170 St. & Teller Ave.,2.0,N,40.8378,-73.9082,X
+200,Clark Playground,E 144 St. & 3 Ave.,2.0,N,40.8136,-73.9211,X
+010,Crotona Playground #11,Fulton Ave. between E 172 St. and Claremont,2.0,N,40.8384,-73.8993,X
+010,Crotona Playground #2,Crotona N between Marmion and Prospect,2.0,N,40.8402,-73.8913,X
+010,Crotona Playground #5,Crotona Pk E at E 173 St.,2.0,N,40.8377,-73.8908,X
+010,Crotona Playground #6,Crotona E between Suburban and Charlotte,2.0,N,40.8371,-73.8926,X
+010,Crotona Playground #7,Crotona E between Claremont and Charlotte,2.0,N,40.8363,-73.8949,X
+010,Crotona Playground #9,Crotona S between Clinton and Prospect,2.0,N,40.8391,-73.8931,X
+164,Dawson Playground,Intervale Ave. & Dawson St.,2.0,N,40.8195,-73.8982,X
+013,Devoe Park,Sedgwick Ave. & Fordham Ave.,2.0,N,40.8635,-73.9058,X
+021,Drew Playground,Fulton Ave. & E 169 St.,2.0,N,40.8334,-73.9036,X
+185,Dunbar Playground,"E 161 St., Trinity Ave., E 163 St. and Cauldwell Ave.",2.0,N,40.8233,-73.9064,X
+156,Eastchester Playground,Adee & Tenbroeck Aves.,2.0,N,40.8698,-73.8531,X
+165,Edenwald Playground,Schieffelin Ave. & E 229 St.,2.0,N,40.8841,-73.8457,X
+126,Ferry Point Park,Corner of Balcom Avenue and Dewey Avenue,2.0,Y,40.8157,-73.8298,X
+122,Florence Colucci Playground,Wilkinson & Mayflower Aves.,2.0,N,40.852,-73.8343,X
+146,Flynn Playground,Brook Ave. & E 157 St.,2.0,N,40.8212,-73.9121,X
+150E,Fordham Landing Playground,"Landing Rd., Just off Fordam Rd.",2.0,N,40.8637,-73.9101,X
+038,Fort #4 Playground,Strong St. & Reservoir Ave.,2.0,N,40.8745,-73.9007,X
+020,Fort Independence Playground,Sedgwick Ave. & Stevenson Pl.,2.0,N,40.8819,-73.895,X
+247,Fox Playground,S/E Corner Fox St. & E 156 St.,2.0,N,40.8147,-73.8987,X
+047,Franz Sigel Park,E 153 St. & Grand Concourse,2.0,Y,40.821,-73.9264,X
+114,Goble Playground,Macombs Pl. & Globel Rd,2.0,N,40.8437,-73.9171,X
+222,Gouverneur Morris Playground,"3 Ave., Saint Paul's Pl. and Washington Ave.",2.0,N,40.8355,-73.9035,X
+235,Grove Hill Playground,Eagle Ave. & E 158 St.,2.0,N,40.8197,-73.9091,X
+161,Gun Hill Playground,Holland Ave. & Magenta St.,2.0,Y,40.8747,-73.8656,X
+196,Haffen Park,Ely & Burke Ave.,2.0,N,40.8735,-73.8398,X
+262,Harding Park,Bolton Ave. between O'Brien and Cornell Aves.,2.0,N,40.8102,-73.8567,X
+148M1,Havemeyer,"N/S Cross Bronx Expwy., Havemeyer Ave. and Watson Ave.",2.0,N,40.83,-73.8476,X
+208,Haviland Playground,"Pugsley, Haviland, and Watson Aves.",2.0,N,40.8289,-73.8589,X
+080,Henry Hudson Park,Independence & W 227 St.,2.0,N,40.8813,-73.9202,X
+228,I Am Park,147 St. & Jackson Ave.,2.0,N,40.811,-73.9101,X
+029,James Lyons Square Playground,Aldus St. & Bryant Ave.,2.0,N,40.8229,-73.8882,X
+017,Richman (Echo) Park,E 178 St. & Upper Level,2.0,N,40.8466,-73.7865,X
+033,Kossuth Playground,Moshulu Pkwy N & Kossuth Ave.,2.0,N,40.8776,-73.8827,X
+163,Loreto Playground,"Morris Park, Tomlinson, Van Nest and Haight Aves.",2.0,N,40.849,-73.8518,X
+131,Lozada Playground,Willis Ave. & E 135 St.,2.0,N,40.8078,-73.9247,X
+030,Macombs,E 158th St. & Ruppert Plaza,2.0,Y,40.8279,-73.9287,X
+214,Magenta Playground,Olinville Ave. & Rosewood St.,2.0,N,40.8738,-73.8678,X
+202,Marble Hill Playground,Marble Hill Ave. between W 228 and W 230 Sts.,2.0,N,40.8775,-73.9076,X
+178,Matthews-Muliner Playground,Matthews & Muliner Aves.,2.0,N,40.8467,-73.8613,X
+157,Mazzei Playground,Mace Ave. & Williamsbridge Rd.,2.0,N,40.8625,-73.8585,X
+153,Merriam Playground (lower),"W 168 St., Merriam Ave., Ogden Ave. and University Ave.",2.0,N,40.8388,-73.9266,X
+153,Merriam Playground (upper),"W 168 St., Merriam Ave., Ogden Ave. and University Ave.",2.0,N,40.8408,-73.9269,X
+182,Millbrook Playground,E 135 St. & Cypress Ave.,2.0,N,40.8042,-73.9162,X
+206,Morgan Playground,"E 168 St., Park Ave. and Washington Ave.",2.0,N,40.8325,-73.9074,X
+001A,Morton Playground,Morton Pl. & University Ave.,2.0,N,40.8515,-73.9141,X
+115,Mott Playground,E 166 St. & Morris Ave.,2.0,N,40.8314,-73.9146,X
+257,Mount Hope Playground,E. 177 St. & Walton Ave.,2.0,N,40.8505,-73.9094,X
+034,Rev. T. Wendell Foster Park,E 164 St. & River Ave.,2.0,N,40.8317,-73.925,X
+168,Nelson Playground,W 166 St. & Nelson Ave.,2.0,N,40.8347,-73.9269,X
+123,Noble Playground,Noble & Bronx River Aves.,2.0,N,40.8369,-73.8726,X
+039,Orchard Beach,"Bruckner Blvd., Eastchester Bay, Hutchinson River and LI Sound",2.0,N,40.8688,73.7922,X
+151,P.O. Hillario Serrano Playground,Olmstead & Castle Hill Aves.,2.0,N,40.8237,-73.8505,X
+177,Parker Playground,Castle Hill Ave. & Parker St.,2.0,N,40.8392,-73.853,X
+162,Parkside Playground,Arnow Ave. & Olinville Ave.,2.0,N,40.8682,-73.868,X
+155,Patterson Playground,Morris & College Aves.,2.0,N,40.816,-73.9216,X
+039,Pelham Bay Playground,"Middletown Road, off Bruckner Blvd.",2.0,N,40.8483,-73.8252,X
+148H1,Prospect Playground,Clinton Ave. & E 176 St.,2.0,N,40.8432,-73.8906,X
+141,PS 21 Playground/Rienzi Playground,E 225 St. & White Plains Rd.,2.0,N,40.8879,-73.8592,X
+133,PS 48 Playground/Hunts Point Playground,Faile St. & Hunts Point Ave.,2.0,N,40.8225,-73.819,X
+203,Randall Playground,Randall & Castle Hill Aves.,2.0,N,40.8193,-73.8494,X
+186,Riverdale Playground,W 237 St. & Independence Ave.,2.0,N,40.8883,-73.9152,X
+238,Saw Mill Playground,Brook Avenue and East 140 Street,2.0,N,40.8088,-73.9193,X
+158,Sedgwick Playground,Undercliff Ave. & Cross Bronx Expwy.,2.0,N,40.8455,-73.923,X
+201,Seton Park,W 235 St. & Douglas Ave.,2.0,N,40.8864,-73.9171,X
+085,Slattery Playground,Ryer & Valentine Aves.,2.0,N,40.8574,-73.8988,X
+118,Sound View Park,Bronx River & Lafayette Aves.,2.0,Y,40.8143,-73.8655,X
+221,Space-Time Playground,Lafayette & Bolton Aves.,2.0,N,40.8225,-73.8598,X
+171,Spuyten Duyvil Playground,W 236 St. & Douglas Ave.,2.0,N,40.8871,-73.9156,X
+044,St. James Park,E 193 St. & Jerome Ave.,2.0,Y,40.8658,-73.8972,X
+045,St. Mary's Playground East,Jackson Ave. & St. Mary's St.,2.0,N,40.8125,-73.9138,X
+045,St. Mary's Playground West,Saint Ann's Ave. & E 147 St.,2.0,N,40.8102,-73.9105,X
+193,Stars & Stripes Playground,Crawford & Baychester Aves.,2.0,N,40.8857,-73.8396,X
+211,Stebbins Playground,E 165 St. & Stebbins Ave.,2.0,N,40.8226,-73.8983,X
+204,Story Playground,Theriot & Story Aves.,2.0,N,40.8229,-73.8631,X
+172,The Pearly Gates Playground,Tratman & Saint Peter's Aves.,2.0,N,40.8659,-73.8503,X
+190,Tiffany Playground,"Fox, Tiffany & E 167 Sts.",2.0,N,40.8249,-73.8944,X
+092,Van Cortlandt Park Basketball Court,Broadway between Van Cortlandt Park South and West 242nd Street (next to the stadium),2.0,N,40.8853,-73.891,X
+188,Wakefield Playground,Carpenter Ave. & E 239 St.,2.0,N,40.9018,-73.8543,X
+002,Waring Playground,Waring Ave. & Bronx Pk E.,2.0,N,40.8602,-73.8715,X
+124,Watson Gleason Playground,Watson & Rosedale Aves.,2.0,N,40.8281,-73.8689,X
+174,Webster Playground,E 188 St. & Webster Ave.,2.0,N,40.8594,-73.8927,X
+104,Williamsbridge Oval,"Van Cortlandt Ave. E, Bainbridge Ave. and Reservoir Oval",2.0,N,40.8768,-73.8776,X
+217,Willis Playground,Willis Ave. & E 141 St.,2.0,N,40.8107,-73.9236,X
+297,Albemarle Playground,"Albermarle Rd., Dahill Rd. and McDonald Ave.",2.0,N,40.646,-73.9808,B
+253,Albert J. Parham Playground,Franklin Ave. between Willoughby and DeKalb Aves.,2.0,N,40.6905,-73.9709,B
+253,Albert Lysander Parham Playground,"Adelphi St., Clermont, DeKalb and Willoughby Aves.",2.0,N,40.6905,-73.9709,B
+193,Alex Hamilton-Metz Memorial Field,"Albany, East New York and Lefferts Aves.",2.0,N,40.6626,-73.9405,B
+329,Alex Lindower Park,Mill & Strickland Aves.,2.0,Y,40.6131,-73.912,B
+001,American Playground,"Noble, Franklin & Milton Sts.",2.0,N,40.729,-73.9578,B
+287,Andries Playground,Ave. K & Nostrand Ave.,2.0,N,40.623,-73.9464,B
+140,Banneker Playground,"Marcy Ave., Kosciusko St. and Lafayette Ave.",2.0,N,40.6903,-73.9494,B
+286,Bartlett Playground,Bartlett St. & Throop Ave.,2.0,N,40.7012,-73.946,B
+164,Bath Beach Playground,Shore Pkwy. & 17 Ave.,2.0,N,40.6024,-74.0107,B
+349,Bath Playground,Bath Ave. between 24 Ave. and Bay 37 St.,2.0,N,40.5946,-73.9936,B
+274,Bay View Houses & PS 272,S/JS Seaview Ave. Opposite E 99 St.,2.0,N,40.6348,-73.8871,B
+100,Bealin Square & Seth Low Playground,"Ave. P., Bay Pkwy. and W 12 St.",2.0,N,40.6079,-73.9859,B
+142,Bedford Playground,"Bedford Ave., S 9 St. and Division Ave.",2.0,N,40.7084,-73.9637,B
+283,Belmont Playground,"Pitkin Ave., Drew St., Belmont Ave., and N Conduit Ave.",2.0,N,40.6757,-73.8629,B
+277,Benson Playground,Bath Ave. between Bay 22 and Bay 23 Sts.,2.0,N,40.6027,-74.0025,B
+007,Bensonhurst Park,"Gravesend Bay, 21 Ave., Cropsey Ave. and Bay Pkwy.",2.0,Y,40.5977,-74.0011,B
+353,Bergen Beach Park,"Ave. T, Ave. N, E 71 St. and E 72 St.",2.0,N,40.6226,-73.9095,B
+154,Berry Playground,"S 3 St., Berry St. and Bedford Ave.",2.0,N,40.7126,-73.9637,B
+008,Betsy Head Memorial Playground,"Livonia Ave., Dumont Ave., Hopkinson Ave., Blake Ave. and Strauss St.",2.0,N,40.6643,-73.9119,B
+335,Bildersee Playground,Flatlands Ave. between E 81 and E 82 St.,2.0,N,40.6354,-73.9117,B
+223J03,Bridge Park,"E/S Jay St., Prospect St., Sands St. and Charles St.",2.0,N,,,B
+169A,Brighton Playground,W/S Brighton 2 Sts. At Boardwalk,2.0,N,40.5751,-73.9657,B
+162,Brizzi Playground,42 St. & 10 to New Utrecht Aves.,2.0,N,40.6424,-73.9947,B
+012,Brower Park & PS 189,"Brooklyn Ave., St. Mark's Ave., Kingston Ave. and Strauss St.",2.0,N,40.6735,-73.9442,B
+270,Brownsville Rec. Center & Playground,Linden Blvd. and Christopher Ave.,2.0,N,40.6568,-73.9014,B
+310,Bushwick Playground,"Knickerbocker Ave., Putnam Ave. and Woodbine St.",2.0,N,40.7018,-73.9394,B
+018,Canarsie Park,Paedergat Basin and Seaview Ave.,2.0,N,40.6308,-73.8933,B
+330,Capt. V. Hickman Park/IS 78,Veterans Ave. between E 66 and E 68 Sts.,2.0,N,40.6204,-73.9135,B
+347,Carver Playground,"Ralph Ave., Sumpter St., Howard Ave. and Marion St.",2.0,N,40.6805,-73.9207,B
+337,Century Playground,W Brighton Ave. between W 2 and W 3 Sts.,2.0,N,40.577,-73.97,B
+362,Chester Playground,"Chester St., Sutter Ave., Bristol St. and Pitkin Ave.",2.0,N,40.6688,-73.9119,B
+141,City Line Park,Atlantic & Fountain Aves.,2.0,N,40.6789,-73.8746,B
+128,Col. David Marcus Memorial Playground,Ave. P & E 5 Sts.,2.0,N,40.6097,-73.9696,B
+021,Commodore Barry Park & Playground,"Park Ave., Navy St., Flushing Ave. and N. Eliot Pl.",2.0,N,40.6978,-73.9791,B
+025,Cooper Park,"Sharon St, Olive St., Maspeth Ave. and Morgan Ave.",2.0,N,40.7156,-73.9362,B
+103,Cypress Hills Houses Playground,Blake & Euclid Aves.,2.0,N,40.6702,-73.8711,B
+232,Dean Playground,"Dean to Bergen Sts., between 6 and Carlton Aves.",2.0,N,40.681,-73.9734,B
+215,Decatur Playground,"Decatur and MacDonough Sts., between Sumner and Lewis Aves.",2.0,N,40.6815,-73.9369,B
+293,DeKalb Playground/PS 270 Playground,Lafayette & Classon Aves.,2.0,N,40.6892,-73.9609,B
+271,Ditmas Playground/Railroad Playground,Ditmas Ave. between E 91 & E 92 Sts.,2.0,N,40.6495,-73.9143,B
+056,"Dr. Martin Luther King, Jr. Park","Dumont Ave., Blake Ave., Miller Ave. and Bradford St.",2.0,N,40.6681,-73.8905,B
+228,Dr. Richard Greene Playground,Stone & Sutter Aves.,2.0,N,40.6674,-73.9066,B
+125,Dreier-Offerman Park,"Gravesend Bay, Bay 44-Bay 49 Sts. and Shore Pkwy.",2.0,N,40.5876,-73.9905,B
+028,Dyker Beach Park,"Shore Pkwy., 86 St. and 7 to 14 Aves.",2.0,Y,40.6126,-74.0126,B
+282,Patrick O&rsquo;Rourke Park,80 to 81 Sts. and 11 to 12 Aves.,2.0,N,40.6191,-74.0135,B
+321,Edmonds Playground,"DeKalb Ave., Adelphi St., and Carlton Ave.",2.0,N,40.6892,-73.9712,B
+300,Edward C. Blum Playground/PS 46,Adelphi & Myrtle Aves.,2.0,N,40.6938,-73.9712,B
+359,Eleanor Roosevelt Playground,"Lewis Ave., DeKalb Ave., Stuyvesant Ave. and Kosciusko St.",2.0,N,40.6927,-73.9357,B
+313,El-Shabazz Playground,"Reid Ave., Malcolm X Blvd. and MacDonough St.",2.0,N,40.6828,-73.9304,B
+345,Ethan Allen Park,Cozine Ave. Vermont St. and New Jersey Ave.,2.0,N,40.6555,-73.8871,B
+358,Eugenio Maria De Hostos Playground,"Harrison Ave., Walton to Lorimer Sts. and Throop Ave.",2.0,N,40.7028,-73.9497,B
+332,Evergreen Playground,"Evergreen Ave., Decatur St. and Schaefer St.",2.0,N,40.6863,-73.9107,B
+334,Fermi Playground,"Troutman St., Central Ave., Starr St. and Wilson Ave.",2.0,N,40.7007,-73.9284,B
+325,Fish Playground,Saratoga Ave. between Herkimer and Fulton Sts.,2.0,N,40.6781,-73.9147,B
+032,Fort Greene Park,"Myrtle Ave., Cumberland St. and DeKalb Ave.",2.0,N,40.6927,-73.9773,B
+248,Fox Memorial Park/PS 251 Playground,"Ave. H, Ave. I and E 54 to E 55 Sts.",2.0,N,40.6324,-73.9236,B
+055,Frances Hamburger Sternberg Park,"Montrose Ave., Boerum St., Lorimer St. and Leonard St.",2.0,N,40.7057,-73.9475,B
+340,Garden Playground,"Flushing Ave., Beaver St. and Garden St.",2.0,N,40.7012,-73.9381,B
+254,George Wingate HS Playground,SE Corner Brooklyn Ave. & Rutland Rd.,2.0,N,40.6591,-73.9442,B
+236,Glenwood Houses Playground,Ralph Ave. & Farragut Rd.,2.0,N,40.6365,-73.9199,B
+243,Golconda Playground,E/S Gold St. and Nassau to Concord Sts.,2.0,N,40.6977,-73.9828,B
+230,Gowanus Houses Playground,"Hoyt, Wyckoff and Bond Sts.",2.0,N,40.6844,-73.9876,B
+078,Grace Playground,"Belmont Ave., Pitkin Ave., Vermont St. and New Jersey St.",2.0,N,40.671,-73.8951,B
+042,Gravesend Park,18 Ave. Near 57 St.,2.0,N,40.6235,-73.9848,B
+301,Greene Playground/PS 11 Playground,Greene Ave. between Waverly and Washington Aves.,2.0,N,40.6865,-73.9661,B
+285,Harry Maze Memorial Park,Ave. D bet. E 56 & E 57 Sts.,2.0,N,40.6433,-73.9231,B
+323,Hattie Carthan Playground,"Monroe St., Tompkins Ave., Madison St. and Marcy Ave.",2.0,N,40.6858,-73.9461,B
+235,Herman Dolgon Playground,"Ave. V, Nostrand St. and Batchelder St.",2.0,N,40.5982,-73.9406,B
+166B,Homecrest Playground,Shore Pkwy. To Williams Ct. and E 12 St.,2.0,N,40.586,-73.957,B
+363,Houston Playground,"Powell St., Liberty Ave., Sackman St. and Glenmore Ave.",2.0,N,40.6721,-73.9053,B
+260,Howard Houses Playground & Pool,Glenmore & Mother Gaston Blvd.,2.0,N,40.6718,-73.9084,B
+163,IS 302 (Sperandeo Brothers),Atlantic Ave. between Elton and Linwood Sts.,2.0,N,40.6763,-73.8844,B
+216,Israel Putnam Playground,Sumner Ave. and Madison to Monroe Sts.,2.0,N,40.6865,-73.9399,B
+305,J Playground,"Ave. J, Ave. K, 103 St. and 104 Sts.",2.0,N,40.6442,-73.893,B
+111,J.J. Byrne Memorial Park/JHS 51,3 to 4 Sts. and 4 to 5 Aves.,2.0,N,40.6728,-73.9842,B
+294,Jackie Robinson Park,Chauncey St. E/O Reid Ave.,2.0,N,40.68,-73.9277,B
+357,Jackie Robinson Playground,"Sullivan Pl., Franklin Ave. and Montgomery St.",2.0,N,40.6657,-73.9592,B
+324,Jacob Joffe Park,Ave. K between E 58 and E 59 Sts.,2.0,N,40.625,-73.9194,B
+291,James Marshall Power Playground,Ave. N & Utica Ave.,2.0,N,40.6183,-73.9276,B
+246,Jerome Playground,Wortman Ave. & Warwick St.,2.0,N,40.6591,-73.8796,B
+269,Jesse Owens Playground,Stuyvesant & Lafayette Aves.,2.0,N,40.6912,-73.9326,B
+151,Jessie & Charles Dome Playground,NE Corner 38 St. & Dahill Rd.,2.0,N,40.638,-73.98,B
+346,JHS 126 Playground,Manhattan Ave. & Leonard St. (Ericsson Playground),2.0,N,40.7205,-73.9484,B
+210I,JHS 136 Playground (Playground Three-Forty),"40 St., 41 St. and 3 Ave.",2.0,N,40.6523,-74.0084,B
+210A,John Allen Payne Park,64 to 65 Sts. and 3 Ave.,2.0,N,40.6399,-74.0242,B
+237,John Hancock Playground,"Bedford Ave., Hancock St. and Jefferson Ave.",2.0,N,40.6822,-73.9543,B
+210W,John J. Carty Park,"Ft. Hamilton, Gowanus Pkwy., and 94 to 101 Sts.",2.0,N,40.6133,-74.0302,B
+157,Kelly Playground,N/S Ave. S between BMT and PS 255,2.0,N,40.6042,-73.9564,B
+304,Kennedy King Playground,"Lenox Rd., Clarkson Ave., E 93 St. and E 94 St.",2.0,N,40.6586,-73.9221,B
+317,Lafayette Gardens Playground,Lafayette & Franklin Aves.,2.0,N,40.6896,-73.9574,B
+106B,Lafayette Playground,Lafayette & E/O Reid Aves.,2.0,N,40.5946,-73.9854,B
+167A,LaGuardia Playground,Havemeyer to Roebling Sts. and S 4 to S 5 Sts.,2.0,N,40.71,-73.9593,B
+052,Leif Ericson Park & Square,66-67 Sts. and 8 to 9 Aves.,2.0,N,40.636,-74.0205,B
+129,Leon S. Kaiser Playground,Coney Island Creek and W 24 St.,2.0,Y,40.5784,-73.9962,B
+054,Lincoln Terrace,Rochester Ave. and President St.,2.0,N,40.6657,-73.9268,B
+214,Linden Playground/JHS 166,"Linden Blvd., Stanley Ave. and Vermont to Wyona Sts.",2.0,N,40.659,-73.8869,B
+149B,Linwood Playground,"Linwood St., New Lots Ave. and Hegeman Aves.",2.0,N,40.6659,-73.8802,B
+107,Lion's Pride Playground,"Riverdale, Van Sinderen, Livonia and Snediker Aves.",2.0,N,40.6626,-73.8997,B
+309,Louis H. Pink Houses Playground,Stanley Ave. & Eldert Lane,2.0,N,40.6663,-73.863,B
+099,Lt. Petrosino Playground,New Utrecht to 16 Aves. and 70 to 71 Sts.,2.0,N,40.6189,-73.9985,B
+296,Luna Park Houses Playground,Surf Ave. and W 8 St. to W 12 St.,2.0,N,40.5758,-73.978,B
+251,Manhattan Beach Park,Oriental Blvd. & Ocean Ave.,2.0,N,40.5767,-73.9461,B
+284,Marc's & Jason's Playground,"Sterling St., Empire Blvd. and New York Ave.",2.0,N,40.6634,-73.9492,B
+016,Maria Hernandez Park,Knickerbocker to Irving Aves. and Starr to Suydam Sts.,2.0,N,40.7035,-73.924,B
+057,Marine Park/Jerry Debonis,Gerritsen Ave. & Ave. X,2.0,N,40.5969,-73.9279,B
+057,Marine Park/PS 278,Fillmore Ave. & Madison Pl.,2.0,Y,40.608,-73.9378,B
+110,Marion-Hopkinson Playground,Hopkinson Ave. & Marion St.,2.0,N,40.6817,-73.9136,B
+272,Marlboro Houses Playground,W 11 St. & Ave. W,2.0,N,40.5911,-73.9808,B
+098,Martin Luther Playground,"55 to 56 Sts., 2 Ave.",2.0,N,40.6461,-74.0197,B
+058,McCarren Park,Bedford Avenue and North 12th Street,2.0,N,40.7213,-73.9495,B
+058,McCarren Park,Abate Playground,2.0,N,40.7212,-73.9554,B
+061,McLaughlin Park,"Tillary, Jay Sts., Cathedral Pl. and Bridge St.",2.0,N,40.6963,-73.9866,B
+197,Mellett Playground,"Ave. V, E 13 St. and E 14 St.",2.0,N,40.597,-73.9571,B
+022,Middleton,"Lynch St., Middleton St. and Lee Ave.",2.0,N,40.7008,-73.9552,B
+268,Nautilus Playground,"Public Beach, West 29 and West 32 street",2.0,N,40.5717,-73.9968,B
+331,Neptune Playground,Neptune Ave. & W 12 St.,2.0,N,40.5781,-73.9808,B
+339,Newport Playground,"Newport Ave., Thatford Ave. and Osborne St.",2.0,N,40.661,-73.9072,B
+250,Nostrand Playground,Nostrand & Foster Aves.,2.0,N,40.6383,-73.9469,B
+144,Ocean Hill Playground,"Bergen St., Rockaway Ave. and Dean St.",2.0,N,40.6743,-73.9119,B
+343,Osborn Playground,"Linden Blvd., Osborne St. and Thatford Ave.",2.0,N,40.6559,-73.9059,B
+295,Oxport Playground,"Flushing Ave., N Portland Ave. and N Oxford St.",2.0,N,40.6977,-73.9762,B
+153,Pacific Playground,W/S Howard Ave. and Pacific to Dean Sts.,2.0,N,40.6757,-73.921,B
+218,Paerdegat Park,"Foster Ave., Farragut Rd., E 40 St. and Albany Ave.",2.0,N,40.6386,-73.938,B
+068,Parade Ground,"Caton Ave., Coney Island Ave., Parkside Ave. and Parade Pl.",2.0,N,40.6515,-73.9656,B
+267,Parkside Playground,"Rogers Ave., Winthrop St. and Parkside Ave.",2.0,N,40.6566,-73.9543,B
+150,Paul W. Kolbert Playground,Ave. L and E 17 to E 18 Sts.,2.0,N,40.6198,-73.9581,B
+224,Police Officer Reinaldo Salgado Playground,"Monroe to Madison Sts., Patchen Ave. and Ralph Ave.",2.0,N,40.6877,-73.9267,B
+210J,PS 1 Playground,"43 St., 47 St. and 3 Ave.",2.0,N,40.6493,-74.0121,B
+348,PS 23 Playground,"Tompkins, Willoughby and Vernon Aves.",2.0,N,40.6942,-73.9469,B
+306,PS 286 Playground,"Ave. Y, between Brown and Haring Sts.",2.0,N,40.5908,-73.9384,B
+124,PS 84/William Sheridan,Wythe Ave. to Berry St. and Grand to S 1 Sts.,2.0,N,40.7153,-73.9644,B
+322,Pulaski Playground,Sumner Ave. between Hart and Pulaski Sts.,2.0,N,40.6936,-73.9419,B
+265,Rainbow Park,55 and 56 Sts. at 6 Ave.,2.0,N,40.6405,-74.0109,B
+059,Ramirez Playground,"White, McKibben and Bogart Sts.",2.0,N,,,B
+152,Rappaport Playground,"Ft. Hamilton Pkwy., 10 Ave. and 52 to 53 Sts.",2.0,N,40.6368,-74.0006,B
+077,Red Hook Park,"King, Richards, Verona, Dwight, and Pioneer Sts.",2.0,N,40.6772,-74.0091,B
+126,Red Hook Recreation Area,"Lorraine, Clinton and Henry Sts.",2.0,N,40.6738,-74.0039,B
+360,Remsen Playground,"Remsen Ave., Glenwood Rd., E 92 St. and Bay View Pl.",2.0,N,40.6423,-73.9075,B
+223P02,Rodney Park North,"Rodney, S 4 St. and S 5 St.",2.0,N,40.7092,-73.9563,B
+223O03,Rodney Park South,"Division Ave., Rodney St. and S 9 St.",2.0,N,,,B
+264,Roebling Playground,"Wilson Ave., Lee Ave., Taylor St. and Bedford Ave.",2.0,N,40.7063,-73.9618,B
+192,Russell Pederson Playground,S/W Corner 83 St. & Colonial Rd.,2.0,N,40.6261,-74.0361,B
+352,Sam Curtis Park,"S/S Foster Ave., E 81 St. and E 82 St.",2.0,N,40.6409,-73.9174,B
+106A,Scarangella Park,"Ave. V, Stillwell Ave., Ave. U and W 13 St.",2.0,N,40.5947,-73.9843,B
+261,Schenk Playground,"Livonia Ave., Barbey St. and Schenck Ave.",2.0,N,40.6656,-73.8861,B
+096,Sgt. William Dougherty Playground,"Anthony St., Vandervoort Ave., and Cherry St.",2.0,N,40.7239,-73.9372,B
+239,Sheepshead Playground,Ave. Z and Nostrand Ave. to E. 29 St.,2.0,N,40.5887,-73.9404,B
+082,Shore Road Park,79th Street & Shore Road,2.0,N,40.6312,-74.0397,B
+137,Sixteen Sycamores Playground,"Schermerhorn St., 3 Ave. and Nevins St.",2.0,N,40.6868,-73.981,B
+225,St. Andrew's Playground,"Atlantic Ave., Herkimer St. and Kingston Ave.",2.0,N,40.6784,-73.9418,B
+245,St. John's Recreation Center,Bergen St. between Troy and Schenectady Aves.,2.0,N,40.6738,-73.934,B
+118A,St. Mary's Playground,Smith St. between Luquer and Nelson Sts.,2.0,N,40.6764,-73.9972,B
+131,Stephen A. Rudd Playground,"Bushwich Ave., Aberdeen and Granite Sts.",2.0,N,40.683,-73.9054,B
+298,Stockton Playground,"Park Ave., Floyd St. and E/O Marcy Ave.",2.0,N,40.697,-73.949,B
+350,Stroud Playground,"Classon Ave., Sterling Pl. and Park Pl.",2.0,N,40.6749,-73.9618,B
+263,Sumner Houses Playground/PS 59,"Sumner, Throop, Park and Myrtle Aves.",2.0,N,40.6976,-73.943,B
+087,Sunset Park,41 to 44 Sts. and 5 to 7 Aves.,2.0,N,40.6481,-74.0031,B
+315,Surf Playground,"Surf Ave, W 25 and W 27 Sts.",2.0,N,40.5738,-73.9924,B
+105,Taaffe Playground,Park to Myrtle Aves. and Taaffe Pl.,2.0,N,40.6953,-73.9607,B
+311,Ten Eyck Playground/PS 196 Playground,"Bushwick Ave., Scholes St. and Messerole St.",2.0,N,40.709,-73.939,B
+127,Thelma Martinez Playground,Scholes St. and Manhattan to Graham Aves.,2.0,N,40.7093,-73.9442,B
+307,Tiger Playground,"Evergreen Ave., Eldert St. and Covert St.",2.0,N,40.6882,-73.9106,B
+234,Tilden Playground,Tilden Ave. and E 48 to E 49 Sts.,2.0,N,40.6476,-73.9317,B
+252,West Playground,N/S Ave. Z between West St. and W 1 St.,2.0,N,40.5876,-73.9705,B
+275,William Grady HS Playground,"Shore Pkwy., Brighton 3 St. and 4 Rd.",2.0,N,40.5825,-73.9647,B
+112,Williamsburg Bridge Playground,"Wythe Ave. to Berry St., S 5 St. and S 6 St.",2.0,N,,,B
+279,Wilson Playground,"Ave. J, Ave. K, E 100 and E 101 Sts.",2.0,N,40.6421,-73.8947,B
+312,Woodruff Playground/PS 224 Playground,"Stanley Ave., Autumn Ave. and Hemlock St.",2.0,N,40.6652,-73.8662,B
+364,Woods Playground,"Bergen St., Utica Ave., Rochester & St. Mark's Ave.",2.0,N,40.6746,-73.9286,B
+108Q,24 Sycamores Playground,1 Ave. & E. 96 St.,2.0,N,40.7595,-73.9586,M
+071,76 St. Playground,W. 76 St. & Riverside Drive,2.0,N,40.7832,-73.985,M
+193,Abraham Lincoln Playground,135 St. & Madison Ave.,2.0,N,40.8122,-73.9376,M
+194,Al Smith Recreations Center,Catherine St.,2.0,N,40.7104,-73.9975,M
+196,Alfred E. Smith Playground,Madison and Catherine Sts. to Oliver St.,2.0,N,40.7122,-73.9974,M
+164,Asser Levy Playground,E. 23 St. & FDR Drive,2.0,N,40.7364,-73.9753,M
+240,Audubon Playground,170 St. & Audubon Ave.,2.0,N,40.8414,-73.9385,M
+226,Augustus Saint-Garden's Playground,E. 19 St. & 2 Ave.,2.0,N,40.7353,-73.9821,M
+165,Baruch Playground,Rivington St. & Baruch Place,2.0,N,40.7172,-73.9766,M
+263,Bellevue South Playground,E. 26 St. & 2 Ave.,2.0,N,40.7397,-73.9785,M
+214,Blake Hobbs Park,104 St. & 2 Ave.,2.0,N,40.7885,-73.9443,M
+238,Bloomingdale Playground,W. 104 St. & Amsterdam Ave.,2.0,N,40.799,-73.966,M
+138,Bo Jangles Playground,W. 150 St. & 7 Ave.,2.0,N,40.8253,-73.9372,M
+200,Booker T. Washington Playground,W. 108 St. & Columbus Ave.,2.0,N,40.8011,-73.9641,M
+081,Carl Schurz Park,E. 84 St. & York Ave.,2.0,N,40.7739,-73.9441,M
+018,Carmansville Playground,W. 151 to 152 Sts. and Amsterdam Ave.,2.0,N,40.8294,-73.9443,M
+010,Central Park,North Meadow (mid-park at 97th Street),2.0,N,40.7911,-73.9598,M
+010,Central Park,Great Lawn,2.0,N,40.7826,-73.9644,M
+011,Chelsea Park,W. 28 St. between 9 and 10 Aves.,2.0,N,40.7498,-74.0004,M
+171,Cherry Playground,"Clinton, Cherry and Water Sts.",2.0,N,40.7113,-73.9861,M
+215,Cherry Tree Park,E. 99 St. & 3 Ave.,2.0,N,40.7875,-73.9471,M
+186,Col. Young Playground (Front),W. 145 St. & Lenox Ave.,2.0,N,40.8201,-73.9361,M
+186,Col. Young Playground (Rear),W. 143 to 144 St. and Hudson River Dr.,2.0,N,40.8187,-73.9348,M
+015,Columbus Park,Worth & Mulberry Sts.,2.0,N,40.7145,-74.0,M
+237,Corp. Seravalli Park,Hudson St. between Gansevoort and Horatio Sts.,2.0,N,40.7391,-74.0046,M
+155,Courtney Callender Playground,130 to 131 Sts. and 5th Ave.,2.0,N,40.8099,-73.94,M
+208E,Crack is Wack,E. 128 St. & 2 Ave.,2.0,N,40.8044,-73.9318,M
+108A,DeSalvio Playground,Spring & Mulberry Sts.,2.0,N,40.8009,-73.9309,M
+022,De Witt Clinton Park,W. 53rd St. between 11 and 12 Aves.,2.0,N,40.7685,-73.9947,M
+270,Dry Dock Park,E. 10 St. & Ave. D,2.0,N,40.7253,-73.9752,M
+144,East River Park,E. 10 St. & FDR Drive,2.0,N,40.7249,-73.9724,M
+258,East River Playground / PS 146,106 St. & FDR Drive,2.0,N,40.7891,-73.9385,M
+116,Essex Playground,"Essex, Norfolk and E. Houston St.",2.0,N,40.7218,-73.986,M
+124,First Park,E. Houston to E. 1 St.,2.0,N,40.7235,-73.9898,M
+160,Fred Samuels Playground,139 to 140 Sts. and Lenox Ave.,2.0,N,40.8173,-73.9392,M
+220,Frederick Douglass Playground,W. 100 to 102 Sts. and Amsterdam Ave.,2.0,N,40.7969,-73.9679,M
+037,Ft. George Playground,Ft. George Ave. & W. 192 St.,2.0,N,40.8579,-73.9247,M
+028,Ft. Washington Playground,161st Street & Henry Hudson Parkway,2.0,N,40.8385,-73.9485,M
+222,Grand & Canal Courts,Grand & Canal Sts.,2.0,N,40.7222,-74.0051,M
+065,Gulick Playground,Columbia & Delancey Sts.,2.0,N,40.7159,-73.9819,M
+221,Gutenberg PlaygroundLa Gu,W. 49 St. between 9 and 10 Aves.,2.0,N,40.7636,-73.9902,M
+033,Hamilton Fish Playground,128 Pitt St.,2.0,N,40.7194,-73.9806,M
+041,Hamilton Place,W. 140 St. & Hamilton Pl.,2.0,N,40.8229,-73.9515,M
+229,Happy Warrior Playground,W. 98 Sts. & Amsterdam Ave.,2.0,N,40.7956,-73.9683,M
+141,Harlem Lane Playground,151 to 154 Sts. and Hudson River Drive,2.0,N,40.826,-73.9348,M
+277,Hell's Kitchen Park,W. 47 St. & 10 Ave.,2.0,N,40.763,-73.9926,M
+037,Highbridge Play Center (Indoors),W. 173 St. & Amsterdam Ave.,2.0,N,40.8426,-73.9337,M
+216,Greg Marius Court,156 St. & 8 Ave.,2.0,N,40.8295,-73.9363,M
+217,Howard Bennett Playground,135 St. & Lenox Terrace,2.0,N,40.8135,-73.9387,M
+042,Inwood Park,207 St.,2.0,N,40.8703,-73.922,M
+099,J. Hood Wright Playground (*Under Construction),176 St. & Ft. Washington Ave.,2.0,Y,40.8466,-73.9406,M
+014,Jackie Robinson Park,150 St. & Bradhurst Ave.,2.0,N,40.8266,-73.9408,M
+228,Jackson Playground,Jackson St. between Madison & Henry Sts.,2.0,N,40.7139,-73.9813,M
+029,Jacob Javits Playground,Cabrini Blvd. & Cobrin Circle,2.0,N,40.8591,-73.9349,M
+223,Jacob Schiff Playground,W. 136 St. & Amsterdam Ave.,2.0,N,40.8203,-73.9524,M
+111,James Weldon Playground / PS 57,E. 115 St. & Lexington Ave.,2.0,N,40.7973,-73.9419,M
+045,John Jay Park,E. 77 St. & FDR Drive,2.0,N,40.7687,-73.9498,M
+066,Kelly Playground,W. 17 St. between 8 and 9 Aves.,2.0,N,40.7419,-74.002,M
+199,Kett Playground,W. 204 St. & Nagles Ave.,2.0,N,40.8624,-73.9211,M
+132,La Guardia Hospital Playground-Rutgers Pool/Little Flower Playground,Madison St. opposite Jefferson St.,2.0,N,40.7124,-73.9883,M
+058,Marcus Garvey Park,E. 120 to 124 Sts. and Madison Ave.,2.0,N,40.8033,-73.9431,M
+198,Martin Luther King Jr. Playground,113 to 114 St. and Lenox Ave.,2.0,N,40.7999,-73.9503,M
+154,May Mathews Playground,W. 46 St. between 9 and 10 Aves.,2.0,N,40.7614,-73.9926,M
+161,McCaffrey Playground,W. 43 St. between 8 and 9 Aves.,2.0,N,40.759,-73.9911,M
+259,McKinley Playground,Ave. A between E. 3 St. and E. 4 St.,2.0,N,40.7242,-73.9857,M
+204,Moore Playground / PS 133,E. 131 St. & Madison Ave.,2.0,N,40.8095,-73.9386,M
+056,Morningside Park,W. 113 St. & Morningside,2.0,Y,40.8031,-73.958,M
+056,Morningside Park,W. 116 St. & Morningside,2.0,Y,40.8074,-73.9573,M
+056,Morningside Park,W. 123 St. & Morningside,2.0,Y,40.8107,-73.9551,M
+239,Morningside Playground,E. 118 St. & 2 Ave.,2.0,N,40.7975,-73.9356,M
+037,Multi Purpose Playground,W. 175 St. & Amsterdam Ave.,2.0,N,40.8448,-73.9328,M
+059,Murphy Playground,Ave. C & E. 17 St.,2.0,N,40.7304,-73.9738,M
+108J,Pedestrian Landing (Each One Teach One) Playground,E. 120 St. & FDR Drive,2.0,N,,,M
+249,Penn South Playground,W. 26 St. between 8 and 9 Aves.,2.0,N,40.7478,-73.9989,M
+227,Peters Field Playground,"2 Ave., E. 20 St. and E. 21 St.",2.0,N,40.7363,-73.9818,M
+108G,Playground 103,103rd St. & FDR Drive,2.0,N,40.787,-73.9393,M
+233,Playground 70,"W 70 St., West End Ave, and Amsterdam Ave.",2.0,N,40.7771,-73.9837,M
+230,Poor Richard Playground,E. 109 St. & 3 Ave.,2.0,N,40.7926,-73.9433,M
+205,PS 125 Playground,Morningside Ave. and W. 123 to 124 Sts.,2.0,N,40.811,-73.956,M
+245,Renaissance Playground,143 to 144 St. and 8 Ave.,2.0,N,40.8211,-73.9415,M
+072,Riverbank Park,148 St. & Henry Hudson Parkway,2.0,N,40.8257,-73.9538,M
+158,Robert Moses Playground,E. 42 St. & FDR Drive,2.0,N,40.7484,-73.9693,M
+158,Robert Wagner Playground,E. 121 St. & 2 Ave.,2.0,N,40.7484,-73.9693,M
+184,Samuel Bennerson,W. 63 to 64 Sts. between West End & Amsterdam Aves.,2.0,N,40.7738,-73.9867,M
+105,Sara D. Roosevelt Park (A),Stanton St.,2.0,Y,40.7231,-73.9909,M
+105,Sara D. Roosevelt Park (B),Delancey St. between Forsythe and Christie Sts.,2.0,Y,40.7221,-73.9914,M
+105,Sara D. Roosevelt Park (D),Canal to Hester Sts.,2.0,Y,40.7175,-73.9937,M
+236,Seabury Playground,Lexington Ave. & E. 95 St.,2.0,N,40.7853,-73.9511,M
+082,Seward Park,"Canal, Hester and Jefferson Sts.",2.0,N,40.7148,-73.9892,M
+195,Sidney Hillman / PS 110,Lewis & Delancey Sts.,2.0,N,40.7151,-73.9798,M
+244,Sol Bloom Playground,W. 70 St. between Central Park West and Columbus Ave.,2.0,N,40.7896,-73.9685,M
+235,Sol Lain Playground,E. Bway & Henry St.,2.0,N,40.7144,-73.9839,M
+079,St. Catherine's Park,1 Ave. and E. 67 to 68 Sts.,2.0,N,40.7654,-73.9592,M
+077,St. Nicholas Park,W. 141 St. & St. Nicholas Ave.,2.0,N,40.816,-73.9489,M
+077,St. Nicholas Park,W. 133 St. & St. Nicholas Ave.,2.0,N,40.8213,-73.9467,M
+077,St. Nicholas Playground (North),129 to 130 St. & 7 Ave.,2.0,N,40.8123,-73.9469,M
+077,St. Nicholas Playground (South),128 St. & 7 Ave.,2.0,N,40.8111,-73.9475,M
+077,St. Nicholas Terrace,W. 129 St. & St. Nicholas Ave.,2.0,N,40.8131,-73.9512,M
+076,St. Vartan's Playground,2 Ave. and E. 35 to E. 36 Sts.,2.0,N,40.7457,-73.9746,M
+192,Stanley Isaacs Playground,1 Ave. & E. 96 St.,2.0,N,40.7835,-73.9442,M
+037,Sunken Playground,W. 167 St. & Edgecombe Ave.,2.0,N,40.8376,-73.9362,M
+206,Tanahey Playground,Cherry St. to Water St.,2.0,N,40.7101,-73.9948,M
+219,Tecumseh Playground,W. 77 St. & Amsterdam Ave.,2.0,N,40.7816,-73.9785,M
+047,Thomas Jefferson Park,2180 1 Ave.,2.0,N,40.7923,-73.9356,M
+069,Thompson Playground,Thompson & Spring Sts.,2.0,N,40.7253,-74.0024,M
+088,Tompkins Sq. Park,E 10 St. & Ave. B,2.0,N,40.7268,-73.9807,M
+037,Wallenburg Playground,W. 189 St. & Amsterdam Ave.,2.0,N,40.8533,-73.9267,M
+125C,West 4th St. Courts,W. 4th St. & 6th Avenue,2.0,N,40.7311,-74.0011,M
+148,White Playground,E. 105 St. & Lexington Ave.,2.0,N,40.7919,-73.9459,M
+110,William McCray Playground,138 St. between Lenox and 5 Ave.,2.0,N,40.8157,-73.938,M
+234,Wright Brothers / PS 28,St. Nicholas Ave. & W. 156 St.,2.0,N,40.8317,-73.942,M
+099,Albert H. Mauro,Park Dr. East & 73 Terrace,3.0,N,40.724,-73.8275,Q
+356,Alley Playground/PS 213,230th St. & 67th Ave.,2.0,N,40.7471,-73.745,Q
+319,Annadale Playground,"Yellowstone Blvd., 65 Rd. & 65 Ave",2.0,N,40.731,-73.8519,Q
+313,Arverne Playground,Averne Blvd. & Beach 55 St.,3.0,N,40.5927,-73.785,Q
+397,Auburndale Playground,35 Ave. between 171 and 172 Sts.,2.0,N,40.7656,-73.7944,Q
+357B01,Barrier Playground,"102 St., 62 Ave. & Yellowstone Blvd.",2.0,N,40.7362,-73.8549,Q
+399,Bay Terrace Playground/PS 169,NE Corner of 212 St. & 23Ave.,1.0,N,40.7821,-73.7776,Q
+007,Bayswater Park,Beach Channel Dr. & Beach 32 St.,3.0,N,40.5992,-73.7674,Q
+326,Bland Playground,40 Rd. & Prince St.,1.0,N,40.7583,-73.8309,Q
+006,Bowne Park,"32 Ave., 29 Ave. and 155 to 159 Sts.",1.0,N,40.7703,-73.8058,Q
+308,Bowne Playground,Sanford Ave. & Union St.,2.0,N,40.7581,-73.8249,Q
+379,Briarwood Playground,148 St. & 85 Ave.,3.0,N,40.71,-73.8113,Q
+460,Broad Channel,Cross Bay Blvd. & E 16 Rd.,3.0,N,40.6012,-73.8197,Q
+366,Bulova Park,W/S 77 St. and N/S 25 Ave.,1.0,N,40.763,-73.8921,Q
+012,Buz O' Rourke P/G,33 Ave. & 214 Pl.,2.0,N,40.771,-73.7712,Q
+361,C.C. Moore Homestead Park,82 St. & Broadway,2.0,N,40.7418,-73.8819,Q
+347,Cadwaller Colden Playground,Union St. & 31 Rd.,2.0,N,40.77,-73.8274,Q
+300,Capt. Mario Fajardo,Kissena Blvd. & Booth Memorial Blvd.,2.0,N,40.7437,-73.8147,Q
+376,Cedar Grove Playground (P.S. 218),Main St. & Gravett Rd.,4.0,N,40.7361,-73.8244,Q
+386,Centerville,"96 St., Centerville St. and Albert Rd.",1.0,N,40.6705,-73.8395,Q
+346,Challenge Playground,251 St. & 63 Ave.,1.0,N,40.7561,-73.7275,Q
+390,Clintonville Playground/JHS 194,Clintonville St. between 17 Ave. and 17 Rd.,6.0,N,40.783,-73.8074,Q
+457,College Point Park,College Pt. Blvd. & 14 Ave.,3.0,N,40.7854,-73.8464,Q
+450,Corona Golf,46 Ave. & 111 St.,5.0,N,40.7474,-73.855,Q
+360J,Crowley,84 St. & 57 Ave.,3.0,N,40.7296,-73.8793,Q
+021,Cunningham Park - Upper Playground,196 Pl. & Union Turnpike,2.0,N,40.7262,-73.7753,Q
+373,East Elmhurst Playground,25 Ave. & 98 St.,5.0,N,40.7651,-73.8701,Q
+419,Edward Hart Playground,147 St. between 26 and 27 Aves.,4.0,N,40.774,-73.8186,Q
+304,Ehrenreich-Austin St. Playground,Austin St. between 76 Ave. & 76 Dr.,2.0,N,40.7151,-73.8364,Q
+342,Electrichester Houses Playground/Electric Playground,65 Ave. & 164 St.,1.0,N,40.7363,-73.8051,Q
+344,Emerald Playground/PS 200,71 Ave. & 164 St.,3.0,N,40.7314,-73.8059,Q
+053,Equity Park,88 Ave. & 91 St.,2.0,N,40.6914,-73.8533,Q
+302,Evergreen Park,St. Felix Ave. and Seneca Ave.,2.0,N,40.6975,-73.897,Q
+221,Farm Playground/PS 26,73 Ave. & 196 St.,2.0,N,40.7352,-73.7774,Q
+337,Fitzgerald Playground,Atlantic Ave. & 94 Ave.,3.0,N,40.6901,-73.8399,Q
+086,Flushing Fields,"Bayside Ave., 25 Ave. and 149 to 150 Sts.",2.0,N,40.7756,-73.8173,Q
+099,Flushing Meadows Corona Park Meadow Lake East,W/S of Meadow Lake & Grand Central Pkwy.,2.0,N,,,Q
+015,Forest Park,"108 St., Myrtle Ave. & Park Lane South",2.0,N,40.7026,-73.8686,Q
+015,Forest Park,Woodhaven Blvd. & Forest Park Dr.,2.0,N,40.7015,-73.8559,Q
+015,Forest Park,80 St. & Myrtle Ave.,2.0,N,40.7025,-73.8684,Q
+015,Forest Park (Sobelsohn P/G),Park Lane S. & Abingdon Rd.,2.0,N,40.7101,-73.8353,Q
+126,Francis Lewis Park,"3 Ave., 147 St. and E River",2.0,Y,40.7965,-73.8249,Q
+381,Francis Lewis Playground,42 Ave. & Francis Lewis Blvd.,3.0,N,40.7603,-73.7837,Q
+098,Frank D. O'Connor Playground,78 St & Broadway,3.0,N,40.7439,-73.8868,Q
+445,Frank Golden Playground,136 St & 20 Ave.,1.0,N,40.7845,-73.833,Q
+119,Frederick B. Judge,"111 Ave., 134 to 135 Sts. and Lincoln Sts.",2.0,N,40.6828,-73.808,Q
+089B,George U. Harvey,15 to 20 Aves. and E/O Whitestone Expwy.,2.0,N,40.7821,-73.8239,Q
+085,Gorman Park,30 Ave. btwn. 84 & 85 Sts.,4.0,N,40.7623,-73.8842,Q
+367,Hammel Playground,Beach 83 St. & Rockaway Beach Blvd.,2.0,N,40.5881,-73.8091,Q
+408,Harold Schneiderman/PS 232,155 Ave. between 84 and 85 Sts.,2.0,N,40.6651,-73.8502,Q
+020,Highland Park Lower,Jamaica Ave. & Cleveland St.,4.0,N,40.6838,-73.8869,Q
+020,Highland Park Upper,Highland Blvd. & Heath Pl.,1.0,N,40.6829,-73.8927,Q
+360N,Hoffman,Hoffman Dr. & Seabury St.,3.0,N,40.7328,-73.8718,Q
+300B,Holy Cow Playground,Peck Ave. & Harding Blvd.,5.0,N,40.7418,-73.7776,Q
+220G,Hoover,Manton St. & 83 Ave.,3.0,N,40.7119,-73.8212,Q
+428,Horace Harding Playground/PS 206,62 Dr. between 97 Pl. & 98 St.,2.0,N,40.7332,-73.8605,Q
+001,Horatio P/G,Horatio Pkwy. & 228th St.,2.0,N,40.7588,-73.7544,Q
+391,Joe Austin,164 Pl. & Grand Central Parkway,2.0,N,40.7158,-73.8013,Q
+285,John Adams,"133 Ave., 101-103 Sts.",2.0,N,40.6771,-73.8357,Q
+305,Joseph F. Mafera Park,65 Pl. & Catalpa Ave. & 68 Ave.,2.0,N,40.7062,-73.8912,Q
+094,Joseph P. Addabbo Playground,North Conduit Ave. between 81 and 82 Sts.,1.0,Y,40.6734,-73.854,Q
+122,Junction Playground,"96 St., 34 Ave. & Junction Blvd.",2.0,N,40.7545,-73.872,Q
+102,Juniper North Playground,80 St. & Juniper Blvd. North,1.0,N,40.7209,-73.8771,Q
+102,Juniper South Playground,74 St. & Juniper Blvd. South,1.0,N,40.7182,-73.8834,Q
+300A,Kissena Corridor East,Peck & Underhill Aves.,1.0,N,40.7445,-73.7874,Q
+024,Kissena Park/164 St. P/G,164 St. opposite Lithonia Ave.,1.0,N,40.7482,-73.8032,Q
+300,Lawrence St.,"Lawrence St., College Point Blvd. and Queens Botanical Gardens",1.0,N,40.7484,-73.834,Q
+096E,Lefferts,North Conduit Ave. and 120 to 122 Sts.,2.0,N,40.6654,-73.8209,Q
+128,London Planetree,"88th St., Atlantic Ave, & 95 Ave.",1.0,N,40.6861,-73.853,Q
+415,Louis Armstrong Playground/PS 143,37 Ave. btwn. 112 & 113 Sts.,2.0,N,40.7549,-73.8556,Q
+369,Louis Pasteur Park/JHS 67,248 St. & 51 Ave.,2.0,N,40.762,-73.7352,Q
+009,MacNeil Park,Poppenhusen Ave. and 119 St.,1.0,Y,40.7934,-73.8516,Q
+211,Maple Playground,Maple Ave. & Kissena Blvd.,1.0,N,40.7556,-73.8261,Q
+364,Marie Curie Park,211 St. & 47 Ave.,1.0,N,40.757,-73.7712,Q
+041,Newtown Playground,92 St. & 56 Ave.,2.0,N,40.7363,-73.8695,Q
+363,Northern Playground,Northern BLvd. & 90th St.,6.0,N,40.756,-73.8744,Q
+400,Oakland Gardens Playground/PS 203,54 Ave. & Springfield Blvd.,3.0,N,40.7536,-73.7598,Q
+162I,O'Dohonue Park,Beach 20-17 St. & Seagirt Blvd.,2.0,N,,,Q
+092,P.O. Edward Byrne Park,"North Conduit Ave., 134 to 135 Sts. and 135 Ave.",2.0,N,40.6673,-73.8076,Q
+118,P.O. Nicholas DeMutis Park,Liberty Ave. and 101 to 102 Sts.,1.0,N,40.6818,-73.8392,Q
+026,Park of the Americas,104 St. & 41 Ave.,1.0,N,40.7487,-73.8614,Q
+334,Playground 21,"163 to 166 Sts., 21 Ave. and 21 Rd.",1.0,N,40.7781,-73.7984,Q
+377,Playground 62/PS 220,Yellowstone Blvd. between 62 Ave. & 62 Rd.,5.0,N,40.736,-73.8536,Q
+354,Playground 75/PS 154,75 Ave. & 160 St.,3.0,N,40.7264,-73.8081,Q
+362,Playground Ninety,Northern Blvd. & 90 St.,2.0,N,40.757,-73.8785,Q
+329,Pomonok,65 Ave. & Kissena Blvd.,4.0,N,40.7357,-73.8141,Q
+011,Poppenhusen Playground,20 Ave btwn 123rd & 124th Sts,1.0,N,40.781,-73.8444,Q
+316,PS 46,64 Ave. & 218 St.,2.0,N,40.7558,-73.7646,Q
+212,Queens Valley Playground,137 St. & 77 Ave.,2.0,N,40.7219,-73.8237,Q
+300,Rachel Carlson Park,Colden St. & Juniper Ave.,1.0,N,40.7489,-73.8222,Q
+300,Rachel Carson Playground,Colden St. & Juniper Ave.,2.0,N,,,Q
+103,Raymond M. O'Connor Field,33 Ave. & 210 St.,1.0,N,40.7717,-73.7798,Q
+357B,Real Good Park,"Long Island Expressway, 99 St. & 62 Ave.",3.0,N,40.7359,-73.8568,Q
+345,Redfern Playground,Redfern Ave & Beach 12 St.,1.0,N,40.6113,-73.7491,Q
+162,Rockaway Beach,Beach 82 & Shore Front Pkwy.,2.0,N,40.586,-73.8071,Q
+371,Rockaway Community Playground,Almeda Avenue,3.0,N,40.5983,-73.7837,Q
+414,Rocket Park/JHS 202,"North Conduit Ave., Arion Rd. and 149 Ave.",1.0,N,40.6706,-73.8462,Q
+335,Russell Sage Playground,68 Ave. & Booth to Austin sts,2.0,N,40.7236,-73.8518,Q
+422,Seaside Playground,Rockaway Beach Blvd. & B109-110 Sts.,3.0,N,40.5809,-73.8308,Q
+021C,Seven Gables Playground,210 St. & Oceania St.,4.0,N,40.7441,-73.7664,Q
+024,Seven Seas Sports Courts/Four Winds P/G,Booth Memorial Blvd. & 160 St.,3.0,N,40.7424,-73.8079,Q
+300,Silent Springs Playground,Colden St. & Geranium Ave.,1.0,N,40.7502,-73.8233,Q
+129,Smokey Oval Playground,"Atlantic, 95 Ave., and 125 St.",2.0,N,40.6943,-73.8208,Q
+303,Travers Park,"78 St, , S/O Northern Blvd.",2.0,N,40.754,-73.8894,Q
+099,Triassic Playground,Jewel Ave. & Van Wyck Expressway,2.0,N,40.7297,-73.835,Q
+294,Utopia,Utopia Pkwy. & Jewel Ave.,2.0,N,40.7305,-73.7932,Q
+336,Vleigh Place Playground/PS 165,Union Turnpike & 141 St.,1.0,N,40.7185,-73.8204,Q
+421,Walter Ward Playground/PS 207,89 St. & 160 Ave.,3.0,N,40.6578,-73.8438,Q
+343,Whitestone Playground/PS 193,152 St. between 11 and 12 Aves.,1.0,N,40.7922,-73.8082,Q
+375,Willets Pt. Playground/PS 209,165 St. btwn. 16 Ave & 16 Rd.,2.0,N,40.7836,-73.7962,Q
+348,Willow Lake Playground,Grand Central Pkwy between 71 & 72 Aves.,1.0,N,40.723,-73.8372,Q
+099,World&rsquo;s Fair Playground,62 Dr. and Grand Central Pkwy.,1.0,N,40.7374,-73.8456,Q
+425,Yellowstone Municipal Park,Yellowstone Blvd. between 68 Ave. & 68 Rd.,1.0,N,40.7264,-73.8478,Q
+033,Abraham Levy Memorial Park,Jewett & Castleton Ave.,2.0,N,40.634,-74.1287,R
+062,Arrochar Playground (PS 39),Sand Lane & McFarland Ave.,2.0,N,40.5978,-74.0706,R
+034,Austin J McDonald Playground,Forest & Myrtle Aves.,2.0,N,40.6297,-74.1151,R
+072,Clawson Playground (PS 50),Adelaide Ave. & Clawson Rd.,2.0,N,40.5603,-74.1239,R
+005,Clove Lakes Park,"Slosson Ave, Victory Blvd. and Clove Rd.",2.0,N,40.616,-74.1054,R
+086,Davis Playground (PS 31),Layton & Bismark Ave.,2.0,N,40.6421,-74.0859,R
+087,Dongan Playground (PS 52),"Mason, Buel & Dongan Hill Aves.",2.0,N,40.5826,-74.089,R
+090,Lieutenant John H. Martinson Playground,Osborne St. & Preston Ave.,2.0,N,40.5365,-74.1628,R
+046,FDR Boardwalk & Beach,Miller Field & Greely Ave.,2.0,Y,40.5687,-74.0912,R
+067,Cesar Sanchez Basketball Courts,Dongan Hills Ave. & SIRR,2.0,N,40.5863,-74.1006,R
+026,Gerard P Dugan Playground,"Mill Rd., Weed Ave., and Tysens Lane",2.0,N,40.5608,-74.1102,R
+068,The Big Park,Grandview Ave. & Continental Pl.,2.0,N,40.6312,-74.1651,R
+071,Great Kills Park (PS 8),Hillcrest Ave. & Highmount Rd.,2.0,N,40.5471,-74.1518,R
+089,Greencroft Playground (PS 53),"Redgrave, Greencroft St., Ainsworth Ave., and Durant Ave.",2.0,N,40.552,-74.1368,R
+036,Harbor Playground,Harbor Rd. & Richmond Terrace,2.0,N,40.6366,-74.1604,R
+037,Ikefugi Playground,Winter & Bismark Aves.,2.0,N,40.6387,-74.0837,R
+114,Jennifer's Playground,"Jules Dr., Elson Ct., and Regis Dr.",2.0,N,40.62,-74.1635,R
+125,Luis Lopez Playground,"Targee St., Palma Dr., and Oder Ave.",2.0,N,40.6118,-74.0849,R
+076,Markham Playground,"Willowbrook Pkwy., Forest Ave. and Houston St.",2.0,N,40.6237,-74.1456,R
+025,Michael J Mahoney Memorial Playground.,"Beechwood Ave., Crescent St. and Cleveland St.",2.0,N,40.6431,-74.086,R
+038A,Midland Field (JHS 2),"Midland, Mason, and Bedford Aves.",2.0,N,40.577,-74.0995,R
+073,Naples Playground (PS 48),Targee St. & Naples St.,2.0,N,40.6027,-74.0907,R
+035,Nicholas De Matti Playground,Tompkins Ave. & Chestnut St.,2.0,N,40.6145,-74.0742,R
+063,Old Town Playground,Parkinson Ave. & Kramer St.,2.0,N,40.5954,-74.0814,R
+053,Park,Richmond Pkwy & Vernon Blvd.,2.0,N,40.533,-74.2021,R
+105,Prall Playground (IS 27),Elizabeth St. & Forest Ave.,2.0,N,40.6288,-74.1183,R
+061,PS 14 & Stapleton Houses Plgd.,"Tompkins Ave, Broad, and Hill Sts.",2.0,N,40.6229,-74.0796,R
+015,Randolph Walker Park,"Delafield Pl, Bard and Davis Aves.",2.0,N,40.6431,-74.1103,R
+042,Reinhard E. Kaltenmeier Playground,Virginia Ave. & Anderson St.,2.0,N,40.6146,-74.0682,R
+045,Schmul Park,Wild Ave & Pearson St.,2.0,N,40.5899,-74.188,R
+069,Terrace/PS 35 Playground,"Foote Ave., Howard Ave., and Martha St.",2.0,N,40.6136,-74.0986,R
+064,Christopher J. Igneri Playground,Schmidts Lane & Manor Rd.,2.0,N,40.6087,-74.1191,R
+448,Roy Wilkins Recreation Center,177th Street & Baisley Boulevard,4.0,,40.6862,-73.7698,Q
+260,Chelsea Recreation Center,West 25 Street and 10 Avenue,2.0,,40.7483,-74.0022,M
+261,West Bronx Recreation Center,West 172 Street between Nelson Avenue & Jesup Street,3.0,,40.844,-73.9195,X
+145,Thomas Greene Playground,Third Avenue at Douglass Street,2.0,,40.6804,-73.9852,B
+106,Daniel M. O'Connell Playground,"197 St., 196 St. Bet. 113 Ave. And Murdock Ave.",2.0,,40.6997,-73.758,Q
+005,157th St. Playground,157th Street & 116th. Avenue,4.0,,40.6846,-73.7868,Q
+244,Grand Playground,W. 181 St. between Grand Ave. and Davidson St.,1.0,,40.8561,-73.9072,X
+264,The Field of Dreams,E. 167 St between Southern Blvd. and Simpson St.,1.0,Y,40.8266,-73.8923,X
+271,Grant Park,Grant Avenue between E. 169 and E. 170 Streets,1.0,,40.8364,-73.9136,X
+295,Half-Nelson Playground,Nelson Av bet. Featherbed La and W 174 St,1.0,,40.8469,-73.9191,X
+113,Hunts Point Playground,Spofford Av bet. Faile St and Hunts Point Av,3.0,,40.814,-73.8861,X
+260,Julio Carballo Fields,Lafayette Avenue and Barretto Street,1.0,,40.8162,-73.8896,X
+308,Washington Market Park,Chambers St. between Greenwich St. and West St.,2.0,,40.7171,-74.012,M
+064,Lillian D Wald Playground,"Cherry St, Montgomery St and Gouverneur St",2.0,,40.7121,-73.9842,M
+471,Hunter's Point South Park,,1.0,N,,,Q
+031,Windmuller Park,"52 St., Woodside Ave. bet. 39 Rd. and 39 Dr.",2.0,N,40.7476,-73.9114,Q
+431,Brooklyn Bridge Park,Pier 2,5.0,,40.6992,-73.9983,B
+139,Heckscher Playground,Linden Street and Central Avenue,2.0,,,,B
+332,Woodtree Playground,20th Avenue Between 37th & 38th Sts.,3.0,Y,40.7772,-73.9031,Q
+102,"Christopher ""Biggie"" Wallace Courts",Fulton Street & Classon Avenue,2.0,Y,40.6817,-73.9595,B
+205A,Big Bush Park,61st Street and Brooklyn Queens Expressway,1.0,,,,Q
+014,Astoria Heights Playground,"Back of Horace Greeley Middle School (I.S. 10), between 45th and 46th Street",2.0,,,,Q
+223R,Green Grass Courts,Marcy Ave & Hope St,2.0,Y,40.7133,-73.9546,B
+132,Justice Gilbert Ramirez Park,McKibbin St. bet. White St. and Bogart St.,2.0,Y,40.706,-73.9343,B
+360U,Bridge and Tunnel Park,"Tunnel Plaza, 50 Ave, 11 St",1.0,N,40.7419,-73.9515,Q
+287,Ogden Plimpton Playground,Plimpton Ave. & West 170th St.,1.0,Y,40.8419,-73.9239,X
+273,Othmar Ammann Playground,East 124th St. & 1st Ave.,2.0,Y,40.8015,-73.9322,M
+017,Bushwick Playground,Knickerbocker Avenue & Putnam Avenue,3.0,Y,40.6957,-73.9118,B
+066C,Triborough Bridge Playground C,23rd St & Hoyt Ave,1.0,Y,40.774,-73.9225,Q
+095,Ennis Playground,12th Street between Second Avenue and Third Avenue,1.0,,,,B
+141,Murray Playground,11th Street between 45th Avenue & 45th Road,2.0,Y,40.7476,-73.9496,Q
+304,West 186th Street Basketball Courts,West 186th St. between Audubon Ave. & St. Nicholas Ave.,2.0,Y,40.8521,-73.9308,M
+266,Star Spangled Playground,Location: Franklin Avenue and Willoughby Avenue,1.0,,,,B
+147A,Starlight Park,Sheridan Expressway & E. 174th St.,1.0,Y,40.8339,-73.8819,X
+307,Barretto Point Park,Viele Ave and Casanova St,2.0,N,,,X
+219,Callahan-Kelly Playground,Sackman St between Truxton St & Fulton St,3.0,,40.6783,-73.9055,B
+092,Woodlawn Basketball Courts,Van Cortlandt Park East between Kepler Avenue and Oneida Avenue,2.0,,,,X
+092,Classic Playground Basketball Courts,Van Cortlandt Park South and Gouverneur Avenue,2.0,,,,X
+019,Ewen Park,"Riverdale to Johnson avenues, south of West 232nd Street",2.0,,40.8831,-73.9099,X
+004,Olinville Playground,E. 219th Street & Bronx Blvd,1.0,Y,40.8837,-73.8672,X
+085,E.M.T. Christopher J. Prescott Playground,Edith Ave. at Irvington St.,1.0,,40.5227,-74.1864,R
+106,Bloomingdale Park,"Richmond Pkwy., West Shore Expw., Lenevar Ave., Ramona Ave.",1.0,N,40.5351,-74.2102,R
+038,Midland Playground,"Mason Ave., Midland Ave",2.0,,40.5751,-74.0989,R
